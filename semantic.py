@@ -12,3 +12,5 @@ word3 = nlp("banana")
 print(word1.similarity(word2))
 print(word3.similarity(word2))
 print(word3.similarity(word1))
+
+print("hi")
